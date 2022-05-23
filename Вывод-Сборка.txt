@@ -1,0 +1,13 @@
+﻿Сборка начата…
+1>------ Сборка начата: проект: RevitAPITR4.1, Конфигурация: Debug Any CPU ------
+1>C:\Users\Илнур\Documents\Уку\RevitAPITR4.1\RevitAPITR4.1\Main.cs(1,7,1,15): error CS0246: Не удалось найти тип или имя пространства имен "Autodesk" (возможно, отсутствует директива using или ссылка на сборку).
+1>C:\Users\Илнур\Documents\Уку\RevitAPITR4.1\RevitAPITR4.1\Main.cs(2,7,2,15): error CS0246: Не удалось найти тип или имя пространства имен "Autodesk" (возможно, отсутствует директива using или ссылка на сборку).
+1>C:\Users\Илнур\Documents\Уку\RevitAPITR4.1\RevitAPITR4.1\Main.cs(3,7,3,15): error CS0246: Не удалось найти тип или имя пространства имен "Autodesk" (возможно, отсутствует директива using или ссылка на сборку).
+1>C:\Users\Илнур\Documents\Уку\RevitAPITR4.1\RevitAPITR4.1\Main.cs(13,25,13,41): error CS0246: Не удалось найти тип или имя пространства имен "IExternalCommand" (возможно, отсутствует директива using или ссылка на сборку).
+1>C:\Users\Илнур\Documents\Уку\RevitAPITR4.1\RevitAPITR4.1\Main.cs(12,6,12,17): error CS0246: Не удалось найти тип или имя пространства имен "TransactionAttribute" (возможно, отсутствует директива using или ссылка на сборку).
+1>C:\Users\Илнур\Documents\Уку\RevitAPITR4.1\RevitAPITR4.1\Main.cs(12,6,12,17): error CS0246: Не удалось найти тип или имя пространства имен "Transaction" (возможно, отсутствует директива using или ссылка на сборку).
+1>C:\Users\Илнур\Documents\Уку\RevitAPITR4.1\RevitAPITR4.1\Main.cs(12,18,12,33): error CS0103: Имя "TransactionMode" не существует в текущем контексте.
+1>C:\Users\Илнур\Documents\Уку\RevitAPITR4.1\RevitAPITR4.1\Main.cs(15,31,15,50): error CS0246: Не удалось найти тип или имя пространства имен "ExternalCommandData" (возможно, отсутствует директива using или ссылка на сборку).
+1>C:\Users\Илнур\Documents\Уку\RevitAPITR4.1\RevitAPITR4.1\Main.cs(15,84,15,94): error CS0246: Не удалось найти тип или имя пространства имен "ElementSet" (возможно, отсутствует директива using или ссылка на сборку).
+1>C:\Users\Илнур\Documents\Уку\RevitAPITR4.1\RevitAPITR4.1\Main.cs(15,16,15,22): error CS0246: Не удалось найти тип или имя пространства имен "Result" (возможно, отсутствует директива using или ссылка на сборку).
+========== Сборка: успешно: 0, с ошибками: 1, без изменений: 0, пропущено: 0 ==========
